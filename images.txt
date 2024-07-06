@@ -1,1 +1,2 @@
 agilestacks/fluentd-elasticsearch
+nginx:1.9.1
