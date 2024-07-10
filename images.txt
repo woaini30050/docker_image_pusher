@@ -1,4 +1,3 @@
 agilestacks/fluentd-elasticsearch
 nginx:1.9.1
-nginx:1.7.9
 busybox
